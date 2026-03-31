@@ -27,7 +27,7 @@ CN Lab Assignment-2 readme.md\
 CN Lab Assignment-2.docx\
 CN Lab Assignment-2.pdf\
 CN Lab Assignment-2.pkt\
-README.md\
+README.md
 
 Instructions
 Refer to each experiment's individual README file for:
