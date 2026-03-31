@@ -1,0 +1,48 @@
+Computer Network Assignment Repository
+This repository contains all the experiments and assignments for the Computer Networks subject (Semester 6) for B.Tech CSE Core.
+The purpose of this repository is to organize and store all practical experiments, implementations, and related documentation in one place for easy access and reference.
+
+Student Information
+Name: N Yugesh
+Course: B.Tech CSE Core
+Semester: 6
+Subject: Computer Networks
+
+Repository Structure
+Each experiment is stored in a separate folder.
+Every folder contains:
+Experiment Code
+Output
+Individual README file
+Instructions for execution
+
+Experiments
+exp_1.docx
+exp_1.pdf
+exp_1.pkt
+exp_2.docx
+exp_2.pdf
+exp_2.pkt
+output_exp_1.txt
+output_exp_2.txt
+readme_exp_1.md
+readme_exp_2.md
+
+Instructions
+Refer to each experiment's individual README file for:
+Problem Statement
+Objective
+Code Explanation
+How to Run
+Output
+
+Purpose
+This repository is created for:
+Academic submission
+Learning and reference
+Organized documentation of experiments
+
+Author
+N Yugesh
+B.Tech CSE Core
+Semester 6
