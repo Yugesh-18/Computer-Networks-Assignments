@@ -16,7 +16,7 @@ Output\
 Individual README file\
 Instructions for execution
 
-Experiments
+Experiments\
 CN Lab Assignment-1 Output.txt\
 CN Lab Assignment-1 readme.md\
 CN Lab Assignment-1.docx\
