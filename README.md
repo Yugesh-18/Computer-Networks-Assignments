@@ -17,17 +17,17 @@ Individual README file
 Instructions for execution
 
 Experiments
-CN Lab Assignment-1 Output.txt
-CN Lab Assignment-1 readme.md
-CN Lab Assignment-1.docx
-CN Lab Assignment-1.pdf
-CN Lab Assignment-1.pkt
-CN Lab Assignment-2 Output.txt
-CN Lab Assignment-2 readme.md
-CN Lab Assignment-2.docx
-CN Lab Assignment-2.pdf
-CN Lab Assignment-2.pkt
-README.md
+CN Lab Assignment-1 Output.txt\
+CN Lab Assignment-1 readme.md\
+CN Lab Assignment-1.docx\
+CN Lab Assignment-1.pdf\
+CN Lab Assignment-1.pkt\
+CN Lab Assignment-2 Output.txt\
+CN Lab Assignment-2 readme.md\
+CN Lab Assignment-2.docx\
+CN Lab Assignment-2.pdf\
+CN Lab Assignment-2.pkt\
+README.md\
 
 Instructions
 Refer to each experiment's individual README file for:
