@@ -1,0 +1,71 @@
+1. Star Topology
+
+PC>ipconfig
+
+FastEthernet0 Connection:(default port)
+
+   Link-local IPv6 Address.........: FE80::2D0:97FF:FE31:9EBC
+   IP Address......................: 192.168.0.4
+   Subnet Mask.....................: 255.255.255.0
+   Default Gateway.................: 0.0.0.0
+
+PC>ping 192.168.0.2
+
+Pinging 192.168.0.2 with 32 bytes of data:
+
+Reply from 192.168.0.2: bytes=32 time=0ms TTL=128
+Reply from 192.168.0.2: bytes=32 time=0ms TTL=128
+Reply from 192.168.0.2: bytes=32 time=0ms TTL=128
+
+Ping statistics for 192.168.0.2:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+2. Bus Topology
+PC>ipconfig
+
+FastEthernet0 Connection:(default port)
+
+   Link-local IPv6 Address.........: FE80::2E0:B0FF:FE38:A35C
+   IP Address......................: 192.168.0.1
+   Subnet Mask.....................: 255.255.255.0
+   Default Gateway.................: 0.0.0.0
+
+PC>ping 192.168.0.3
+
+Pinging 192.168.0.3 with 32 bytes of data:
+
+Reply from 192.168.0.3: bytes=32 time=0ms TTL=128
+Reply from 192.168.0.3: bytes=32 time=0ms TTL=128
+Reply from 192.168.0.3: bytes=32 time=0ms TTL=128
+Reply from 192.168.0.3: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.0.3:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Ring Topology
+PC>ipconfig 
+
+FastEthernet0 Connection:(default port)
+
+   Link-local IPv6 Address.........: FE80::20C:CFFF:FE61:BA71
+   IP Address......................: 192.168.0.1
+   Subnet Mask.....................: 255.255.255.0
+   Default Gateway.................: 0.0.0.0
+
+PC>ping 192.168.0.5
+
+Pinging 192.168.0.5 with 32 bytes of data:
+
+Reply from 192.168.0.5: bytes=32 time=2ms TTL=128
+Reply from 192.168.0.5: bytes=32 time=0ms TTL=128
+Reply from 192.168.0.5: bytes=32 time=0ms TTL=128
+Reply from 192.168.0.5: bytes=32 time=0ms TTL=128
+
+Ping statistics for 192.168.0.5:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 2ms, Average = 0ms
